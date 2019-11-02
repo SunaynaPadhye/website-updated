@@ -7,10 +7,3 @@
 - Enable start-ups for successful exit from the incubator by providing assistance in external fund raising, custom acquisition, etc. 
 - Leverage R&D infrastructure to create technology and innovation based startup companies.
 
-## URL ##
-
-## Author ##
-
-## Contributing ##
-
-## License ##
